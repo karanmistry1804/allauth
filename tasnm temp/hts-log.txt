@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 20 Jul 2020 10:27:34 at https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/index.html +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/index.html -O1 "C:\Users\ronak\Desktop\tasnm temp" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:28:09	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/favicon.ico (from https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/index.html)
+10:29:47	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/images//others/2.png (from https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/css/style.css)
+10:30:14	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/tasnm/cart.html (from https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/tasnm/index.html)
+10:30:14	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/tasnm/order-complete (from https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/tasnm/index.html)
+10:30:14	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/tasnm/fonts/Pe-icon-7-stroke.eot?d7yf1v (from https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/tasnm/css/pe-icon-7-stroke.min.css)
+10:30:14	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/tasnm/fonts/Pe-icon-7-stroke.eot? (from https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/tasnm/css/pe-icon-7-stroke.min.css)
+10:30:14	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/tasnm/fonts/Pe-icon-7-stroke.ttf?d7yf1v (from https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/tasnm/css/pe-icon-7-stroke.min.css)
+10:30:14	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/tasnm/fonts/Pe-icon-7-stroke.svg?d7yf1v (from https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/tasnm/css/pe-icon-7-stroke.min.css)
+10:30:14	Error: 	"Forbidden" (403) at link https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/tasnm/css/AjaxLoader.gif (from https://d29u17ylf1ylz9.cloudfront.net/tasnm-preview/tasnm/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 41 seconds : 178 links scanned, 168 files written (10763094 bytes overall) [8805788 bytes received at 54694 bytes/sec], 2550894 bytes transferred using HTTP compression in 51 files, ratio 19%, 25.4 requests per connection
+(9 errors, 0 warnings, 0 messages)
